@@ -1,6 +1,8 @@
-<center>
-# 78 Patcher Collection - Presets do Patcher para FL Studio
-</center>
+| Text |
+|:----:|
+| **78 Patcher Collection - Presets do Patcher para FL Studio** |
+| Bem-vindo ao **78 Patcher Collection**! Este repositório contém uma coleção de **criações personalizadas de plugins e presets** para o **Patcher** no FL Studio, projetados para aprimorar a sua experiência de produção musical. |
+
 
 Este repositório contém uma coleção de **presets personalizados** para o **Patcher** no FL Studio. O Patcher é uma ferramenta poderosa que permite criar e manipular sequências de áudio e efeitos de forma criativa e flexível. Aqui, você encontrará uma variedade de presets prontos para ser usados ou modificados para aprimorar seus projetos musicais.
 

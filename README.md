@@ -9,7 +9,7 @@
 ## Sobre
 Esta é uma biblioteca de presets criada por mim, @frank7852 usando o Patcher, do FL Studio. Essa coleção inclui diversos efeitos como EQs, Compressores e outros utilitários de áudio. Cada preset foi desenvolvido para otimizar o fluxo de trabalho e expandir as possibilidades sonoras dentro do DAW.
 
-Para mais informações sobre cada Preset, acesse a **[Wiki](https://github.com/Frank7852/78-Patcher-Collection.wiki.git)**
+Para mais informações sobre cada Preset, acesse a **[Wiki](https://github.com/Frank7852/78-Patcher-Collection/wiki)**
 ## Como Instalar:
 
 1. Clique aqui para fazer o Download.

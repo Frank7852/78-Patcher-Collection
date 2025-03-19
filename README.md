@@ -1,39 +1,18 @@
-| Text |
-|:----:|
-| **78 Patcher Collection - Presets do Patcher para FL Studio** |
-| Bem-vindo ao **78 Patcher Collection**! Este repositório contém uma coleção de **criações personalizadas de plugins e presets** para o **Patcher** no FL Studio, projetados para aprimorar a sua experiência de produção musical. |
+<h1 align="center">78 Patcher Collection</h1>
 
+Esta é uma biblioteca de presets criada por mim, @frank7852 usando o Patcher, do FL Studio. Essa coleção inclui diversos efeitos como EQs, Compressores e outros utilitários de áudio. Cada preset foi desenvolvido para otimizar o fluxo de trabalho e expandir as possibilidades sonoras dentro do DAW.
 
-Este repositório contém uma coleção de **presets personalizados** para o **Patcher** no FL Studio. O Patcher é uma ferramenta poderosa que permite criar e manipular sequências de áudio e efeitos de forma criativa e flexível. Aqui, você encontrará uma variedade de presets prontos para ser usados ou modificados para aprimorar seus projetos musicais.
+## Como instalar:
 
-## Como usar
+1. Clique aqui para fazer o Download.
 
-1. **Baixe os arquivos**:
-   - Clique no arquivo desejado e faça o download para o seu computador.
+2. Extraia os arquivos do .zip para alguma pasta de sua preferencia.
 
-2. **Importe no FL Studio**:
-   - Abra o FL Studio e crie um novo projeto ou abra um projeto existente.
-   - No Patcher, clique em "File" > "Open" e selecione o preset que você baixou.
-   - O preset será carregado e você poderá começar a utilizá-lo imediatamente.
+3. No FL Studio, clique em **Options > File Settings**.
 
-3. **Personalização**:
-   - Os presets podem ser ajustados de acordo com suas necessidades. Experimente adicionar ou remover plugins, mudar as configurações dos efeitos e explorar novas combinações.
+4. Em **Browse extra search folders**, clique no icone de pasta vazio e selecione a pasta do **78 Patcher Collection**.
 
-## Estrutura do Repositório
-
-- `Presets/`: Contém os presets organizados por tipo ou uso.
-- `README.md`: Este arquivo, com instruções e informações sobre o repositório.
-
-## Contribuições
-
-Se você quiser contribuir com novos presets ou melhorias para os existentes, fique à vontade para abrir uma *Pull Request*. Qualquer contribuição é bem-vinda!
-
-### Passos para contribuir:
-
-1. Fork este repositório.
-2. Crie uma nova branch para sua contribuição.
-3. Adicione seus presets ou melhorias.
-4. Envie a *Pull Request* explicando suas alterações.
+5. Pronto! 
 
 ## Licença
 
@@ -45,4 +24,4 @@ Se você tiver dúvidas ou sugestões, fique à vontade para abrir uma *issue* o
 
 ---
 
-**Aproveite e crie incríveis produções musicais!**
+🎧 Feito por @frank7852 – Criando música com eficiência! 🚀

@@ -32,4 +32,4 @@ Se você tiver dúvidas ou sugestões, fique à vontade para abrir uma *issue* o
 
 ---
 
-🎧 Feito por @frank7852 – Criando música com eficiência! 🚀
+🎧 Feito por @frank7852 – Criando música com amor! 🚀
